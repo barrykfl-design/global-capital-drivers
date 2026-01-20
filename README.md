@@ -54,7 +54,7 @@ Commodities: Yahoo Finance (real-time futures prices: GC=F, SI=F, CL=F, HG=F, NG
 Geopolitics: World Bank GPR Index, IMF Conflict Monitor, Bloomberg, Reuters.
 AI Energy: Stanford Index Report, IEA Energy & AI Report, Greenpeace, OECD.
 
-🎯 Who This Is For
+🎯 Who This Is For (Demo Only)
 
 Traders/Investors: Predict commodity price moves using GPR/AECI correlations.
 Geopolitics Enthusiasts: See how country conflicts impact global capital.
@@ -68,5 +68,4 @@ Predictive modeling for price/flow forecasting.
 📝 License
 MIT License (free for personal/professional use—attribution appreciated).
 "The great game of nations is won by those who understand the link between geopolitics, technology, and commodities."
-— Global Capital Flow Axiom
 Star this repo if you find it valuable, your support helps improve the tool! ⭐
