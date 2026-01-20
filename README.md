@@ -40,7 +40,7 @@ Leading Coefficient: Combined GPR × AECI impact (Human Financial Algorithm).
 Uncovers hidden trends: you will see it after run.
 
 📊 Screenshot Preview
-(Add your app screenshots here—example prompts for clarity)
+<img width="943" height="470" alt="image" src="https://github.com/user-attachments/assets/ab368f74-f660-4a06-88e9-69b217ee0cd6" />
 
 🚀 Quick Start
 
