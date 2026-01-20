@@ -14,7 +14,7 @@ By correlating these three dimensions, it reveals how geopolitical tensions, AI 
 
 🔍 Key Features
 1. Real-Time Commodity Tracking
-Live prices (USD/oz, USD/bbl, etc.) with 24-hour volatility charts.
+Live prices (USD/oz) with 24-hour volatility charts.
 Per-gram/per-unit conversions for quick comparisons.
 Auto-refreshes every 30 seconds (HKT) with fallback simulation for unreliable connections.
 
@@ -28,7 +28,7 @@ Source attribution (World Bank, IMF, Bloomberg, Reuters).
 12 months of historical data (Jan 2025–Dec 2025) tracking:
 Global data center power demand (GW).
 AI workload growth (+145.7% in 2025).
-Key events (GPT-5 training, chip manufacturing ramps, enterprise AI adoption).
+Key events (AI related news).
 Sources: Stanford AI Report, IEA, Greenpeace, OECD.
 
 4. Commodity Correlation Engine Al
@@ -54,11 +54,6 @@ Commodities: Yahoo Finance (real-time futures prices: GC=F, SI=F, CL=F, HG=F, NG
 Geopolitics: World Bank GPR Index, IMF Conflict Monitor, Bloomberg, Reuters.
 AI Energy: Stanford Index Report, IEA Energy & AI Report, Greenpeace, OECD.
 
-🛠️ Tech Stack
-Frontend: Dash (interactive UI), Plotly (charts/maps).
-Backend: Python (data fetching, correlations, index calculations).
-Data Handling: Pandas (tables), NumPy (statistics), yfinance (real-time commodity data).
-
 🎯 Who This Is For
 
 Traders/Investors: Predict commodity price moves using GPR/AECI correlations.
@@ -74,4 +69,4 @@ Predictive modeling for price/flow forecasting.
 MIT License (free for personal/professional use—attribution appreciated).
 "The great game of nations is won by those who understand the link between geopolitics, technology, and commodities."
 — Global Capital Flow Axiom
-Star this repo if you find it valuable—your support helps improve the tool! ⭐
+Star this repo if you find it valuable, your support helps improve the tool! ⭐
