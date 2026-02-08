@@ -3,7 +3,7 @@ Global Capital Drivers - The New Great Game 資本之推手 · 大國博弈
 
 🎯 Core Purpose
 
-This tool decodes global capital flows and human financial behavior by bridging three critical pillars of the global economy:
+This AI Analytics tool decodes global capital flows and human financial behavior by bridging three critical pillars of the global economy:
 Commodity Markets: Real-time prices and volatility for gold, silver, crude oil, copper, and natural gas ("The great game of nations is won by those who understand the link between geopolitics, technology, and commodities.").
 
 Geopolitical Risk (GPR): Country-level risk scores tied to conflicts, sanctions, and political instability (the "great game of nations"). 
