@@ -44,7 +44,7 @@ Uncovers hidden trends: you will see it after run.
 
 🚀 Quick Start
 
-# Download the capital.exe and directly run
+# Download the capital.exe and run directly
 https://github.com/barrykfl-design/global-capital-drivers
 
 
